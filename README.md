@@ -11,4 +11,4 @@ add datalinage diagram form draw.io
 
 how the tables are connencted to each other 
 
-images/table_connection.png
+![Table Connection](images/table_connection.png)
